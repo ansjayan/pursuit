@@ -33,6 +33,7 @@ __pycache__/
 data/
 uploads/
 user_documents/
+docs/
 
 # Logs
 *.log

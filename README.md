@@ -498,11 +498,11 @@ npx --version
 ## 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/pursuit.git
+git clone https://github.com/ansjayan/pursuit
 cd pursuit
 ```
 
-Replace `YOUR_GITHUB_USERNAME` with the repository owner.
+
 
 ---
 
@@ -566,7 +566,7 @@ npx --version
 
 # Gemini API Configuration
 
-PURSUIT requires a Google Gemini API key.
+PURSUIT requires a Google Gemini API key. Create one free using google ai studio
 
 Copy:
 
