@@ -638,7 +638,7 @@ Open it in a browser.
 
 ---
 
-# First-Time Judge Walkthrough
+# First-Time Walkthrough
 
 For the fastest evaluation of the project:
 
