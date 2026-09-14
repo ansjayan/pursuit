@@ -1,0 +1,55 @@
+# ============================================================
+# PURSUIT - Git Ignore
+# ============================================================
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python virtual environments
+.venv/
+.venv-test/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test / tooling cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Runtime database
+*.db
+*.sqlite
+*.sqlite3
+
+# PURSUIT runtime data
+data/
+uploads/
+user_documents/
+
+# Logs
+*.log
+logs/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
